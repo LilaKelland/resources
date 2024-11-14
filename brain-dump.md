@@ -23,3 +23,8 @@ prettier --write .
 eslint .
 eslint --fix .
 ```
+
+## Look at next
+* ArgoCD (with gitops as well)
+* Kargo
+* Arora/ Flux
