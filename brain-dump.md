@@ -5,6 +5,7 @@
 kpt fn render .
 ```
 * https://github.com/seek-oss/kpt-functions/blob/master/examples/tutorial/README.md
+* https://cloud.google.com/config-connector/docs/how-to/getting-started
 
 ## Find out what's consuming all the space on my cloudshell
 ```
