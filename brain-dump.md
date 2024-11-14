@@ -16,6 +16,7 @@ first need to gcloud services enable serviceusage.googleapis.com
 ```
 * https://github.com/seek-oss/kpt-functions/blob/master/examples/tutorial/README.md
 * https://cloud.google.com/config-connector/docs/how-to/getting-started
+* https://developers.google.com/apis-explorer
 
 ## Find out what's consuming all the space on my cloudshell
 ```
